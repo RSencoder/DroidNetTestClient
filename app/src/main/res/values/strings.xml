@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DroidNetTestClient</string>
+    <string name="http_request_content">HTTP request content:</string>
+    <string name="send">Send</string>
+    <string name="http_response_content">HTTP response content:</string>
+    <string name="ipaddr_hint">Server ip address</string>
+</resources>
